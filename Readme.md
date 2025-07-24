@@ -10,6 +10,4 @@ Front-End Developer 🤓 📚
 
 Software analytics and developer. 🎓
 
-Dart and Flutter enthusiast and your whole ecosystem.. 💘 💖
-
  CODING!! CODING!! CODING!!
