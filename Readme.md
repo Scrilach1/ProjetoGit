@@ -1,11 +1,8 @@
 Hello! 👋👨‍💻
-Front-End Developer 🤓 📚
+Back-End Developer 🤓 📚
 
-• HTML
-• CSS
-• JavaScript
-• Dart
-• Flutter
+• C#
+• Unity Hub
 • SQL Database
 
 Software analytics and developer. 🎓
